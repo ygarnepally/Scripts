@@ -1,0 +1,492 @@
+[
+ {
+   "asg": "asg-cap-kafka-latest0-config-00b4b431a9e7fbc56928a66db3",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-latest1-config-00b4b431a9e7fbc56928a66db5",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-latest2-config-00b4b431a9e7fbc56928a66db8",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-latest3-config-00b4b431a9e7fbc56928a66dba",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-latest4-config-00b4b431a9e7fbc56928a66db9",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-load0-config-00c8967be1d32468da1d5092e4",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-load1-config-00c8967be1d32468da1d5092e9",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-load2-config-00c8967be1d32468da1d5092ea",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-load3-config-00c8967be1d32468da1d5092e3",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-load4-config-00c8967be1d32468da1d5092e5",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-prod0-config-0042502ff2db5e25290012dc88",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-prod1-config-0042502ff2db5e25290012dc84",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-prod2-config-0042502ff2db5e25290012dc87",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-prod3-config-0042502ff2db5e25290012dc85",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-prod4-config-0042502ff2db5e25290012dc86",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-stage0-config-002be58d4cf7cc4690902a595f",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-stage0-config-0090a6091631208fac639dd46e",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-stage1-config-002be58d4cf7cc4690902a5962",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-stage1-config-0090a6091631208fac639dd467",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-stage2-config-002be58d4cf7cc4690902a595e",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-stage2-config-0090a6091631208fac639dd469",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-stage3-config-002be58d4cf7cc4690902a5961",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-stage3-config-0090a6091631208fac639dd468",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-stage4-config-002be58d4cf7cc4690902a5960",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-kafka-stage4-config-0090a6091631208fac639dd46a",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-latest0-config-00b4b431a9e7fbc56928a66db7",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-latest1-config-00b4b431a9e7fbc56928a66db6",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-latest2-config-00b4b431a9e7fbc56928a66db1",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-latest3-config-00b4b431a9e7fbc56928a66db2",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-latest4-config-00b4b431a9e7fbc56928a66db4",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-load0-config-00c8967be1d32468da1d5092e8",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-load1-config-00c8967be1d32468da1d5092e7",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-load2-config-00c8967be1d32468da1d5092ec",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-load3-config-00c8967be1d32468da1d5092e6",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-load4-config-00c8967be1d32468da1d5092eb",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-prod0-config-0042502ff2db5e25290012dc8a",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-prod1-config-0042502ff2db5e25290012dc89",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-prod2-config-0042502ff2db5e25290012dc8d",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-prod3-config-0042502ff2db5e25290012dc8b",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-prod4-config-0042502ff2db5e25290012dc8c",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-stage0-config-002be58d4cf7cc4690902a595a",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-stage0-config-0090a6091631208fac639dd46b",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-stage1-config-002be58d4cf7cc4690902a595d",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-stage1-config-0090a6091631208fac639dd46f",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-stage2-config-002be58d4cf7cc4690902a595c",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-stage2-config-0090a6091631208fac639dd46d",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-stage3-config-002be58d4cf7cc4690902a595b",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-stage3-config-0090a6091631208fac639dd470",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-stage4-config-002be58d4cf7cc4690902a5959",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "asg-cap-zookeeper-stage4-config-0090a6091631208fac639dd46c",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "awseb-e-bmbp22gmif-stack-AWSEBAutoScalingGroup-1OG58SXE0UB4P",
+   "Key": "bapp_id",
+   "Value": "BAPP0062466"
+ },
+ {
+   "asg": "awseb-e-vh2x83v2gb-stack-AWSEBAutoScalingGroup-1NDANQ6UZSSTX",
+   "Key": "bapp_id",
+   "Value": "BAPP0062466"
+ },
+ {
+   "asg": "cap-schema-reg-stage-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "content-pub-char-pub-latest-Asg-IFRPSF60N7E1",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-char-pub-load-Asg-155ODD7PKO4KD",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-char-pub-prod-Asg-B47Y28J8ZIG",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-char-pub-stage-Asg-LE568YKZV6F3",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-facilities-latest-Asg-1AXMB7KM14R9T",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-fs-pub-latest-Asg-OZYVYDW87JGZ",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-fs-pub-load-Asg-1JSIU62GZF3FV",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-fs-pub-prod-Asg-P305A4X4MIQN",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-fs-pub-stage-Asg-1O2W9UT3XOW4U",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-sg-admin-latest-Asg-1A73DIPYUSAPO",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-sg-admin-load-Asg-184Z834JQQ586",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-sg-admin-prod-Asg-1PU90A2YX9MVE",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-sg-admin-stage-Asg-1IBS21ATZXY0Z",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-sync-gw-latest-Asg-1OZKS09L8463F",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-sync-gw-load-Asg-Y91A4XWN5IE",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-sync-gw-load-Asg-Y91A4XWN5IE",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-sync-gw-prod-Asg-1BD3ZLFSAPI4M",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "content-pub-sync-gw-stage-Asg-HGQ14C3CZLFY",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "ee-cap-schema-reg-latest-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "ee-cap-schema-reg-load-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "ee-cap-schema-reg-prod-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "ee-cap-schema-reg-stage-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0083073"
+ },
+ {
+   "asg": "ia-serviceper-latest-zookeeper-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0066579"
+ },
+ {
+   "asg": "ia-serviceper-prod-zookeeper-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0066579"
+ },
+ {
+   "asg": "ia-serviceper-stage-zookeeper-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0066579"
+ },
+ {
+   "asg": "ia-sp-nifi-lrr-latest-nifi-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0066579"
+ },
+ {
+   "asg": "ia-sp-nifi-lrr-prod-nifi-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0066579"
+ },
+ {
+   "asg": "ia-sp-nifi-lrr-stage-nifi-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0066579"
+ },
+ {
+   "asg": "innovation-stage-Asg-1MDV3THVYNUQ",
+   "Key": "bapp_id",
+   "Value": "BAPP0091624"
+ },
+ {
+   "asg": "nifi-alpha-latest-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0068514"
+ },
+ {
+   "asg": "nifi-alpha-zookeeper-latest-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0066579"
+ },
+ {
+   "asg": "nifi-alpha-zookeeper-prod-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0066579"
+ },
+ {
+   "asg": "nifi-alpha-zookeeper-stage-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0066579"
+ },
+ {
+   "asg": "schedules-pub-latest-Asg-1AUNPBSFGCIXX",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "schedules-pub-load-Asg-73VBICV4SW8",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "schedules-pub-stage-Asg-2X8228CLK2IT",
+   "Key": "bapp_id",
+   "Value": "BAPP0066096"
+ },
+ {
+   "asg": "wdpr-cast-load-consul-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0074840"
+ },
+ {
+   "asg": "wdpr-cast-prod-consul-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0074840"
+ },
+ {
+   "asg": "wdpr-sales-latest-consul-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0074840"
+ },
+ {
+   "asg": "wdpr-sales-load-consul-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0074840"
+ },
+ {
+   "asg": "wdpr-sales-prod-consul-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0074840"
+ },
+ {
+   "asg": "wdpr-sales-stage-consul-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0074840"
+ },
+ {
+   "asg": "wdw-experience2-latest-consul-asg",
+   "Key": "bapp_id",
+   "Value": "BAPP0074840"
+ },
+ {
+   "asg": "wdpr.dpi.magento_latest_0.0.16",
+   "Key": "bapp_id",
+   "Value": "BAPP0080501"
+ },
+ {
+   "asg": "wdpr.dpi.magento_latest_0.0.15",
+   "Key": "bapp_id",
+   "Value": "BAPP0080501"
+ }
+]
